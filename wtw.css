@@ -1,0 +1,189 @@
+.logo{
+	color:#EC811D;	
+  font-weight: lighter;
+  font-size: 40px;
+}
+.logo:hover{
+	text-decoration:none;
+	opacity:0.7;
+	color:#EC811D;
+}
+header{
+	background: #16132b;
+} 
+.tytle{
+  color:#EC811D;	
+  font-size: 20px;
+}
+.tytle:hover{
+	text-decoration:none;
+	color:#EC811D;
+}
+.pizdec {
+  margin:auto;
+  text-align:center;
+}
+.navbar{
+	background-color: #16132b;
+}
+.color{
+	color:white;
+}
+#color{
+	color:white;
+}
+.font{
+	text-align: center;
+	color:#EC811D;
+}
+.button {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 10px 26px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  border-radius: 7px;
+}
+.button1 {
+  background-color: white; 
+  color: #16132b; 
+  border: 2px solid #EC811D;
+}
+.button1:hover {
+  background-color: #EC811D;
+  color: white;
+}
+.footer{
+	opacity:1;
+	text-decoration:none;
+	color:#EC811D;	
+}
+.footer:hover{
+	text-decoration:none;
+	opacity:0.7;
+	color:#EC811D;
+}
+.img{
+  width: 200px;
+  height: 260px;
+  border-radius: 20px;
+}
+
+.img:hover{
+  box-shadow:1px 1px 5px #777777;
+}
+
+.tytle2{
+  color:#EC811D;	
+  font-size: 20px;
+  text-align: center;
+}
+.button2 {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 10px 260px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  border-radius: 7px;
+}
+.button3 {
+  background-color: white; 
+  color: #16132b; 
+  border: 2px solid #EC811D;
+}
+
+.button3:hover {
+  background-color: #EC811D;
+  color: white;
+}
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+        
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  padding: 12px 16px;
+  z-index: 1;
+}
+        
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+.btn-top {
+  position: fixed;
+  right: 1rem;
+  bottom: 1rem;
+  display: none;
+  width: 5rem;
+  height: 5rem;
+  text-align: center;
+  font-size: 1.5rem;
+  background: #EC811D;
+  color: #fff;
+  cursor: pointer;
+  border-radius: 15px;
+  opacity:0.7;
+}
+
+.btn-top:hover{
+  opacity:1;
+}
+
+
+
+.mfp-hide {
+  display: none!important;
+}
+h1 {
+  color: #fff;
+  font-size: 50px;
+  font-family: "museo-sans", Arial, Verdana;
+  text-transform: uppercase;
+  line-height: 72px;
+  letter-spacing: -5px;
+  margin: 185px 0 0 0;
+}
+span {
+  font-size: 23px;
+  font-size: 2.3rem;
+  display: block;
+  font-family: "museo-sans", Arial, Verdana;
+  font-weight: 500;
+  letter-spacing: 0px;
+  line-height: 25px;
+}
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: none;
+}
+.content {
+text-align: center;
+}
+
+
+
+
+
+
+
+
+
