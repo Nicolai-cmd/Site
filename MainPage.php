@@ -178,6 +178,6 @@
     </div>
   </div>                        
 </div><br><br><br><br><br>
-<div id="gotop" class="btn-top"><center><i class="fas fa-chevron-up button button1" style="font-size:40px; margin:3px"></i></center></div>
+<div id="gotop" class="btn-top"><center><i class="fas fa-chevron-up" style="font-size:40px; margin:3px"></i></center></div>
 <?php include 'footer.php';?>
        
