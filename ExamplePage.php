@@ -4,8 +4,8 @@
 <div class = "col-sm-3"><img src="http://www.blackfilm.com/read/wp-content/uploads/2018/03/Avengers-Infinity-War-new-poster.jpg" alt="Avangers" class="img-fluid">
 <br><br>
 <center><button id="videoLink" href="#videoStory" class="button button1" type="submit">Watch treiler&nbsp;<i class="fa fa-play-circle" aria-hidden="true">&nbsp;</i></button></center></div>
-<div class = "col-sm-6"><font color="#EC811D"><h1>Avengers: infinity war</h1><br>
-
+<div class = "col-sm-6"><font color="#ffffff"><h1>Avengers: infinity war</h1></font><br>
+<font color="#EC811D">
 Year - 2018 <br>
 
 Country - USA<br>
